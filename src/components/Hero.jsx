@@ -3,7 +3,7 @@ export default function Hero() {
     <section className="hero">
       <div className="hero__media">
         <img
-          src="/photos/main_for_cover.jpeg"
+          src="/fashion_photos/main_for_cover.jpeg"
           alt="Sale cover photo"
         />
         <div className="hero__overlay" />

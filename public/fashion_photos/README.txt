@@ -2,7 +2,7 @@ Put your image files here (JPG/PNG/WebP).
 
 Vite will serve anything in `public/` at the site root.
 So:
-  public/photos/dress-01.jpg  ->  /photos/dress-01.jpg
+  public/fashion_photos/dress-01.jpg  ->  /fashion_photos/dress-01.jpg
 
 Suggested filenames used by the demo data:
   collection-new.jpg

@@ -4,7 +4,7 @@ export default function Editorial() {
       <div className="editorial__grid container">
         <div className="editorial__image">
           <img
-            src="/photos/BEDFCAC0-000F-4C5C-8DA2-E273AF8AFC2B.jpeg"
+            src="/fashion_photos/BEDFCAC0-000F-4C5C-8DA2-E273AF8AFC2B.jpeg"
             alt="Editorial product portrait"
             loading="lazy"
           />
